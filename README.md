@@ -35,3 +35,8 @@ Example: /live 1231231241232131
 your bot should join the voice chat and start streaming your music.
 
 I am NOT a serious programmer. Feel free to fork it, copy it, adjust it, manipulate it, whatever. I am satisfied with the results that is why I am sharing. 
+I tested everything on Linode Ubuntu servers. Then find out I could run this bot on my PC whenever I needed to. So, it's cheaper. But If you want to run your bot constantly on a server I recommend to use Linode. Follow my referral link if you haven't tried yet: 
+
+With my invite code you will receive a $100, 60-day credit once a valid payment method is added to your new account.
+
+https://www.linode.com/lp/refer/?r=0d68775921ab28759691f3e09ecd492cd036abc0
