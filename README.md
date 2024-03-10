@@ -34,3 +34,4 @@ Example: /live 1231231241232131
 
 your bot should join the voice chat and start streaming your music.
 
+I am NOT a serious programmer. Feel free to fork it, copy it, adjust it, manipulate it, whatever. I am satisfied with the results that is why I am sharing. 
